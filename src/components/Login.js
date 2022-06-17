@@ -91,7 +91,7 @@ const SignIn = styled.a`
 const Section = styled.section`
   display: flex;
   align-content: start;
-  min-height: 70px;
+  min-height: 700px;
   padding-bottom: 138px;
   padding-top: 40px;
   padding: 60px 0;
@@ -104,7 +104,7 @@ const Section = styled.section`
 
   @media (max-width: 768px) {
     margin: auto;
-    min-height: 0;
+    min-height: 0px;
   }
 `;
 
@@ -115,7 +115,7 @@ const Hero = styled.div`
     padding-bottom: 0;
     width: 55%;
     font-size: 56px;
-    color: #2977c7;
+    color: #2977c9;
     font-weight: 200;
     line-height: 70px;
 
@@ -126,7 +126,6 @@ const Hero = styled.div`
       line-height: 2;
     }
   }
-
   img {
     /* z-index: -1; */
     width: 700px;
