@@ -161,7 +161,7 @@ const Item = styled.a`
   span {
     display: flex;
     align-items: center;
-    color: rgba(0, 0, 0, 1);
+    color: black;
   }
 
   &:hover,
