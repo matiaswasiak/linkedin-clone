@@ -43,7 +43,7 @@ const CommonCard = styled.div`
   text-align: center;
   overflow: hidden;
   margin-bottom: 8px;
-  background-color: #fff;
+  background-color: #ffffff;
   border-radius: 5px;
   position: relative;
   border: none;
