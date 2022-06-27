@@ -70,7 +70,7 @@ const ShareBox = styled(CommonCard)`
   flex-direction: column;
   color: #958b7b;
   margin: 0 0 8px;
-  background-color: white;
+  background-color: #ffffff;
 `;
 
 export default Main;
